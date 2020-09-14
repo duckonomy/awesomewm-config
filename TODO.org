@@ -1,0 +1,6 @@
+* Separate By Focus
+** Theme (Initialized by Beautiful)
+** Core
+*** Core configurations
+** Widgets
+*** Extra functionality to existing platform
